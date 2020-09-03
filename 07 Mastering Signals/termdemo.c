@@ -25,3 +25,11 @@ int main(){
                 exit(5);
         }
 }
+
+
+/*
+ryan01@ryan01:~/linux_system_programming/07$ ./termdemo
+Child PID = 2725
+Child exited normally with exit status 5
+ryan01@ryan01:~/linux_system_programming/07$
+*/
